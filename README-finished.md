@@ -29,8 +29,8 @@ In this challenge, I developed the page for mobile devices first, but with the g
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Four Card](https://github.com/GleberC/four-card)
+- Live Site URL: [Four Card](https://four-card-flax.vercel.app/)
 
 ## My process
 
